@@ -15,11 +15,6 @@ I'm a SDE living in Egypt. Got BSCS degree from Assiut University - June 2019. I
       </a>
     </td>
     <td>
-      <a href="https://github.com/Abdulrahmannaser" rel="nofollow">
-        <img src="https://i.ibb.co/JyTg1J0/icons8-github-50.png" alt="GitHub" style="max-width:100%;">  
-      </a>
-    </td>
-    <td>
       <a href="https://medium.com./@AN4553R" rel="nofollow">
         <img src="https://i.ibb.co/G5Yp0J8/icons8-medium-new-50.png" alt="Medium" style="max-width:100%;">  
       </a>
