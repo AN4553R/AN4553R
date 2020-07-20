@@ -5,7 +5,7 @@
 
 I'm a SDE living in Egypt. Got BSCS degree from Assiut University - June 2019. I'm into Computer Science and Software Engineering so you can find me between theory and industry. I've started my SDE journey by joining [DigiZilla LLC](http://www.digizilla.net/en/home/) (Dec 2019 - present) as a Python developer mainly in Odoo ERP systems development.
 
-<details align="center">
+<details>
 <summary align="center"><strong>Contacts:</strong></summary>
 <table>
   <tr>
