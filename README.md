@@ -1,34 +1,13 @@
 ### Hi there 👋 
 
-![Visitors](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Abdulrahmannaser)
-
+![Linkedin](https://img.shields.io/badge/-Abdelrahman&nbsp;Naser-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/abdelrahman-naser-00b45b110)
+![Twitter](https://img.shields.io/twitter/follow/AN4553R?style=social)
+![Medium](https://img.shields.io/badge/-@AN4553R-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@AN4553R)
+![stackoverflow](https://img.shields.io/badge/-Abdelrahman-03a57a?style=social&labelColor=black&logo=stackoverflow&link=https://stackoverflow.com/users/9554905/abd-el-rahman-naser)
+![Gmail](https://img.shields.io/badge/-Send&nbsp;Mail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:abdoblue0@gmail.com)
 
 I'm a SDE living in Egypt. Got BSCS degree from Assiut University - June 2019. I'm into Computer Science and Software Engineering so you can find me between theory and industry. I've started my SDE journey by joining [DigiZilla LLC](http://www.digizilla.net/en/home/) (Dec 2019 - present) as a Python developer mainly in Odoo ERP systems development.
 
-<details>
-<summary align="left"><strong>Contacts:</strong></summary>
-<table>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/abdelrahman-naser-00b45b110" rel="nofollow">
-        <img src="https://i.ibb.co/HgxdFXM/icons8-linkedin-50.png" alt="LinkedIn" style="max-width:100%;">
-      </a>
-    </td>
-    <td>
-      <a href="https://medium.com./@AN4553R" rel="nofollow">
-        <img src="https://i.ibb.co/G5Yp0J8/icons8-medium-new-50.png" alt="Medium" style="max-width:100%;">  
-      </a>
-    </td>
-    <td>
-      <a href="https://stackoverflow.com/users/9554905/abd-el-rahman-naser" rel="nofollow">
-        <img src="https://i.ibb.co/XjxF9dy/icons8-stack-50.png" alt="stackoverflow" style="max-width:100%;">  
-      </a>
-    </td>
-     <td>
-      <a href="https://twitter.com/AN4553R" rel="nofollow">
-        <img src="https://i.ibb.co/27YSPDV/icons8-twitter-circled-50.png" alt="Twitter" style="max-width:100%;">  
-      </a>
-    </td>
-  </tr>
-</table>
-</details>
+
+
+![Abdulrahmannaser's github stats](https://github-readme-stats.vercel.app/api?username=Abdulrahmannaser&show_icons=true&hide_border=true)
