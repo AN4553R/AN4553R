@@ -4,6 +4,10 @@
 
 I'm a SDE living in Egypt. Got BSCS degree from Assiut University - June 2019. I'm into Computer Science and Software Engineering so you can find me between theory and industry. I've started my SDE journey by joining [DigiZilla LLC](http://www.digizilla.net/en/home/) (Dec 2019 - present) as a Python developer mainly in Odoo ERP systems development.
 
+<p align="center">
+<img src="https://media.giphy.com/media/l46ChKeGsmsfE3Un6/giphy.gif" >
+</p>
+
 ![Abdulrahmannaser's github stats](https://github-readme-stats.vercel.app/api?username=Abdulrahmannaser&show_icons=true&hide_border=true)
 
 [![Linkedin](https://img.shields.io/badge/-Abdelrahman&nbsp;Naser-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/abdelrahman-naser-00b45b110)](https://www.linkedin.com/in/abdelrahman-naser-00b45b110)
