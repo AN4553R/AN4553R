@@ -12,7 +12,7 @@ I'm a SDE living in Egypt. Got BSCS degree from Assiut University - June 2019. I
 
 [![Linkedin](https://img.shields.io/badge/-Abdelrahman&nbsp;Naser-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/abdelrahman-naser-00b45b110)](https://www.linkedin.com/in/abdelrahman-naser-00b45b110)
 [![Twitter](https://img.shields.io/twitter/follow/AN4553R?style=social)](https://twitter.com/intent/follow?screen_name=AN4553R)
-[![Medium](https://img.shields.io/badge/-@AN4553R-03a57a?style=social&labelColor=black&logo=Medium&link=https://medium.com/@AN4553R)](https://medium.com/@AN4553R)
+[![Medium](https://img.shields.io/badge/-@AN4553R-03a57a?style=social&labelColor=black&logo=Medium&link=https://an4553r.medium.com)](https://an4553r.medium.com)
 [![stackoverflow](https://img.shields.io/badge/-Abdelrahman-03a57a?style=social&labelColor=black&logo=stackoverflow&link=https://stackoverflow.com/users/9554905/abd-el-rahman-naser)](https://stackoverflow.com/users/9554905/abd-el-rahman-naser)
 [![Gmail](https://img.shields.io/badge/-Send&nbsp;Mail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:abdoblue0@gmail.com)](mailto:abdoblue0@gmail.com)
 <a href="https://dev.to/abdulrahmannaser">
