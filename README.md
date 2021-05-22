@@ -2,7 +2,8 @@
 
  ![Visitors](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Abdulrahmannaser)
 
-I'm a SDE living in Egypt. Got BSCS degree from Assiut University - June 2019. I'm into Computer Science and Software Engineering so you can find me between theory and industry. I've started my SDE journey by joining [DigiZilla LLC](http://www.digizilla.net/en/home/) (Dec 2019 - present) as a Python developer mainly in Odoo ERP systems development.
+I'm a Software Engineer with 1.5 years of experience in ERP systems development. Got BScs degree from Assiut University - 06/2019. I've started my career journey on 12/2019 as full-stack developer with Odoo (world's top ERP Saas).
+Most of time I write Python, XML templates, JS, C++ and Java.
 
 <!--<p align="center">
 <img src="https://dustycloud.org/etc/images/blog/terminal-phase-prototype.gif" >
@@ -18,3 +19,5 @@ I'm a SDE living in Egypt. Got BSCS degree from Assiut University - June 2019. I
 <a href="https://dev.to/abdulrahmannaser">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abdelrahman Naser's DEV Community Profile" height="23" width="23">
 </a>
+
+![Metrics](https://metrics.lecoq.io/abdulrahmannaser?template=classic&repositories.forks=true&base.metadata=0&achievements=1&languages=1&languages.ignored=html%2C%20CSS%2C%20EJS%2C%20Jupyter%20notebook%2C%20Makefile%2C%20PHP%2C%20XSLT%2C%20C%2C%20Shell%2C%20Mako%2C%20Hack&languages.limit=8&languages.colors=github&languages.threshold=0%25&achievements.threshold=C&achievements.secrets=true&achievements.limit=15&config.timezone=Africa%2FCairo)
