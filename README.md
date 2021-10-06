@@ -20,4 +20,6 @@ Most of time I write Python, XML templates, JS, C++ and Java.
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Abdelrahman Naser's DEV Community Profile" height="23" width="23">
 </a>
 
+<a href="https://app.daily.dev/AN4553R"><img src="https://api.daily.dev/devcards/2689f96f2b6c4fb3aded6885a468d3f9.png?r=juj" width="400" alt="Abdelrahman Naser's Dev Card"/></a>
+
 ![Metrics](https://metrics.lecoq.io/abdulrahmannaser?template=classic&repositories.forks=true&base.metadata=0&achievements=1&languages=1&languages.ignored=html%2C%20CSS%2C%20EJS%2C%20Jupyter%20notebook%2C%20Makefile%2C%20PHP%2C%20XSLT%2C%20C%2C%20Shell%2C%20Mako%2C%20Hack&languages.limit=8&languages.colors=github&languages.threshold=0%25&achievements.threshold=C&achievements.secrets=true&achievements.limit=15&config.timezone=Africa%2FCairo)
