@@ -2,7 +2,7 @@
 
  ![Visitors](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Abdulrahmannaser)
 
-I'm a Software Engineer with 2 years of experience in ERP systems development. Got BScs degree from Assiut University - 06/2019. I've started my career journey on 12/2019 as full-stack developer with Odoo (world's top open-source ERP SaaS).
+I'm a Software Development Engineer with 2 years of experience in ERP systems development. Got BScs degree from Assiut University - 2019. I've started my career journey in 2019 as full-stack developer with Odoo (world's top open-source ERP SaaS).
 Most of time I write Python, XML templates, JS with hands on C++ and Java.
 
 <!--<p align="center">
