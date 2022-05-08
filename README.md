@@ -3,6 +3,9 @@
  ![Visitors](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/AN4553R)
 
 I'm a Software Development Engineer with 2 years of experience in ERP systems development. Got BScs degree from Assiut University - 2019. I've started my career journey in 2019 as full-stack developer with Odoo (world's top open-source ERP SaaS).
+
+Currently, building industry-leading platform solutions that scale, part of Back-end team that ensures system consistency and improves user experience for `OLX MENA` web apps
+
 Most of time I write Python, XML templates, JS with hands on C++ and Java.
 
 <!--<p align="center">
