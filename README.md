@@ -1,4 +1,4 @@
-Software Development Engineer with work experience in ERP systems development with Odoo (world's top open-source ERP SaaS). Got BScs degree from Assiut University, Egypt - 2019. 
+Software Development Engineer with work experience in ERP systems development with Odoo (world's top open-source ERP SaaS). Holding BScs degree from Assiut University, Egypt.
 
 Currently, building industry-leading platform solutions that scale, part of Back-end team that ensures system consistency and improves user experience for `OLX MENA` web apps
 
