@@ -1,8 +1,7 @@
-Software Development Engineer with work experience in ERP systems development with Odoo (world's top open-source ERP SaaS). Holding BScs degree from Assiut University, Egypt.
+Software Development Engineer with a competitive programming background, 2 years of experience in a software house focused on ERP systems development, and 6 months in a software product company in classifieds
+business.
 
-Currently, building industry-leading platform solutions that scale, part of Back-end team that ensures system consistency and improves user experience for `OLX MENA` web apps
-
-Most of time I write Python, XML templates, JS with hands on C++ and Java.
+Most of the time I write Python. Hands-on C++, Java and JavaScript.
 
 <!--<p align="center">
 <img src="https://dustycloud.org/etc/images/blog/terminal-phase-prototype.gif" >
